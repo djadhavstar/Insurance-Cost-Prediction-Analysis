@@ -102,6 +102,8 @@ Jupyter Notebook, GitHub
 Deodatt Jadhav
 GitHub Profile
 
+[Read the Full Technical Walkthrough on Medium](https://medium.com/p/dcd13c7d0302/edit))
+
 📬 Contact
 For any questions, please reach out via LinkedIn or open an issue in the repository.
 https://www.linkedin.com/in/deodatt-jadhav-03b756ba/
