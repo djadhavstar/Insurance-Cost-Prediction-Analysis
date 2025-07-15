@@ -98,6 +98,9 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost
 SHAP, Streamlit, Tableau
 Jupyter Notebook, GitHub
 
+[Read the Full Technical Walkthrough on Medium]
+https://medium.com/@djadhavstar/predicting-health-insurance-premiums-with-machine-learning-an-end-to-end-project-0d2d0b24a0d0
+
 📌 Author
 Deodatt Jadhav
 GitHub Profile
