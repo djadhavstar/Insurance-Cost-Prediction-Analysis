@@ -101,6 +101,9 @@ Jupyter Notebook, GitHub
 Read the article through Medium
 https://medium.com/@djadhavstar/predicting-health-insurance-premiums-with-machine-learning-an-end-to-end-project-0d2d0b24a0d0
 
+Loom Video
+https://www.loom.com/share/db5e5f038cc649688b200772dbfddd68?sid=6913071e-ae8b-4a24-976c-5f2ffc835816
+
 📌 Author
 Deodatt Jadhav
 GitHub Profile
